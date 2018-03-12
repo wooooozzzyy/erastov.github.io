@@ -1,6 +1,6 @@
 # Проектирование информационных систем
 ## Ерастов Фёдор Андреевич ИДБ-14-13
-##### feduk.github.io
+##### erastov.github.io
 **Файл содержит задачи для лабораторной работы.**<br>
 <ol><strong>Список задач</strong><br>   
 <li>Зарегистрироваться на сайте github.com.<br>
@@ -11,4 +11,4 @@
 <li><a href="https://github.com/erastov">Личная страница</a><br>
 <li><a href="https://github.com/sofiazakharova/feduk.github.io">Личный репозиторий</a><br>
 <li><a href="https://github.com/sofiazakharova/SofiaZakharova.github.io/wiki">WiKi</a><br>
-<li><a href="https://feduk.github.io ">index</a></ol><br>
+<li><a href="https://erastov.github.io ">index</a></ol><br>
