@@ -128,3 +128,8 @@ body {
 		font-size: 7vw;
 	}
 }
+
+A:link { color: white; }
+A:visited { color: white; }
+A:active { text-decoration: none; }
+A:hover { color: #ccffff;}
