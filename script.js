@@ -28,7 +28,7 @@ $(document).ready(function() {
  		}
  		else{
  			temp = $("#name").html();
- 			$("#name").html("<a href='https://t.me/shjstspc' style="text-decoration: none">@SHJSTSPC</a>");
+ 			$("#name").html("<a href='https://t.me/shjstspc' style='text-decoration: none'>@SHJSTSPC</a>");
  			$("#subname").html("<a href='https://github.com/erastov'>profile</a>");
  			$("#subname").append(" - <a href='https://github.com/erastov/erastov.github.io'>repo</a>")
  			$("#subname").append(" - <a href='https://github.com/sofiazakharova/SofiaZakharova.github.io/wiki'>wiki</a>")
