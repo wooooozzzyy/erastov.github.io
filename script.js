@@ -29,8 +29,7 @@ $(document).ready(function() {
  		else{
  			temp = $("#name").html();
  			$("#name").html("+7 915 226 0738");
- 			$("#subname").html("f.erastov@qiwi.com");
- 			$("#subname").append("<br><a href='https://github.com/erastov'>profile</a>")
+ 			$("#subname").html("<a href='https://github.com/erastov'>profile</a>");
  			$("#subname").append(" - <a href='https://github.com/erastov/erastov.github.io'>repo</a>")
  			$("#subname").append(" - <a href='https://github.com/sofiazakharova/SofiaZakharova.github.io/wiki'>wiki</a>")
  			$(".material-icons").html("airplanemode_inactive");
