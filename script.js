@@ -28,7 +28,7 @@ $(document).ready(function() {
  		}
  		else{
  			temp = $("#name").html();
- 			$("#name").html("+7 915 226 0738");
+ 			$("#name").html("<a href='https://t.me/shjstspc'>TELEGRAM ME</a>");
  			$("#subname").html("<a href='https://github.com/erastov'>profile</a>");
  			$("#subname").append(" - <a href='https://github.com/erastov/erastov.github.io'>repo</a>")
  			$("#subname").append(" - <a href='https://github.com/sofiazakharova/SofiaZakharova.github.io/wiki'>wiki</a>")
